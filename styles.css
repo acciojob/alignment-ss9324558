@@ -1,41 +1,17 @@
 /*  your css code here. If applicable */
-.center-heading{
-	text-align : center;
+header{
+	text-align:center;
 }
-.left {
-	text-align : left;
-}
-.center{
-	text-align : center;
-}
-.right {
-	text-align : right;
-}
-#table-1{
-	margin-bottom : 30px;
-	width : 100%;
-}
-#table-2{
-	width : 100%;
-}
-#table-2 td, th{
-	
-	height : 15px;
-}
-table, th, td{
-	border : 1px solid black;
+.middle,td{
+	 border: 1px solid black;
+	margin:1px;
+	padding:1px;
+	width:550px
 	
 }
-#table-3 {
-	margin-top : 30px;
-	width : 100%;
+#green{
+	background-color:green;
 }
-#table-3 td,th{
-	height : 15px;
-}
-
-#t-image{
-  display: fixed;
-	
-  width: 4%;
+#blue{
+	background-color:blue;
 }
